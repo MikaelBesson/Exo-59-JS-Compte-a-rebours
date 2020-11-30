@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+}
+
+div {
+    width: 60rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    font-size: 10rem;
+    text-align: center;
+    border: 1px dashed red;
+    border-radius: 25%;
+}
+
